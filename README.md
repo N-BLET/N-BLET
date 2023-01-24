@@ -10,14 +10,14 @@ Je vis à Lyon
 </p>
 </br></br></br></br></br>
 <img align="right" width="15%" alt="GIF" src="https://media.giphy.com/media/26FmRCiQ9lMwuDXVu/giphy.gif"></img>
-</br><p align="left" width = "10%">et suis actuellement musicien au sein du ministère des armées. J'ai néanmoins entamer ma reconversion depuis 2020 pour devenir développeur web.:computer:</p>
+</br><p align="left" width = "10%">et suis actuellement musicien plus précisement clarinettiste au sein du ministère des armées. Cependant, une transition est en train de s'effectuer. En effet, j'ai entamer ma reconversion depuis 2020 pour devenir développeur web.:computer:</p>
 
 *Désolé pour le gif, je n'ai pas trouvé de clarinettiste !*
 </br></br></br>
 ## Pourquoi développeur web et pas continuer ma vie de clarinettiste ?
 
-Après une dizaine d'années au sein des orchestres militaires, l'envie de nouveaux objectifs et de développer de nouvelles compétences m'ont conduit 
-Cependant, pas simple de quitter son métier pour un autre où tout est remis en cause. De plus, le fait de faire ma passion mon travail est une chance et un réel moyen de motivation. Néanmoins, mon attrait depuis mon enfance pour l'informatique n'a fait que grandir et aujourd'hui cet engouement m'a poussé à changer de cap afin de pouvoir   
+Après une dizaine d'années au sein des orchestres militaires, l'envie de nouveaux objectifs et de développer de nouvelles compétences m'ont conduit vers d'autres horizons.
+Mais, quitter son métier pour un autre où tout est remis en cause ce n'est pas toujours évident. De plus, le fait de faire ma passion mon travail est une chance et une réelle motivation. Mais, mon attrait depuis mon enfance pour l'informatique ne fait que grandir et aujourd'hui cet engouement m'a poussé à changer de cap !!!   
  
 ## École de formation MIT, Harvard ?
 
