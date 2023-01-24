@@ -10,24 +10,23 @@ Je vis à Lyon
 </p>
 </br></br></br></br></br>
 <img align="right" width="15%" alt="GIF" src="https://media.giphy.com/media/26FmRCiQ9lMwuDXVu/giphy.gif"></img>
-</br><p align="left" width = "10%">et suis actuellement musicien plus précisement clarinettiste au sein du ministère des armées. Cependant, une transition est en train de s'effectuer. En effet, j'ai entamer ma reconversion depuis 2020 pour devenir développeur web.:computer:</p>
+</br><p align="left" width = "10%">et suis actuellement musicien :musical_score: plus précisement clarinettiste au sein du ministère des armées. Cependant, je suis en pleine transition pour changer radicalement de voie. En effet, j'ai entamé ma reconversion depuis 2020 pour devenir développeur web.:computer:</p>
 
 *Désolé pour le gif, je n'ai pas trouvé de clarinettiste !*
-</br></br></br>
-## Pourquoi développeur web et pas continuer ma vie de clarinettiste ?
+</br>
+## Pourquoi développeur web et plus clarinettiste ?
 
-Après une dizaine d'années au sein des orchestres militaires, l'envie de nouveaux objectifs et de développer de nouvelles compétences m'ont conduit vers d'autres horizons.
-Mais, quitter son métier pour un autre où tout est remis en cause ce n'est pas toujours évident. De plus, le fait de faire ma passion mon travail est une chance et une réelle motivation. Mais, mon attrait depuis mon enfance pour l'informatique ne fait que grandir et aujourd'hui cet engouement m'a poussé à changer de cap !!!   
+Après une dizaine d'années au sein des orchestres militaires :military_helmet:, le besoin de nouveaux objectifs et le désir de développer de nouvelles compétences me guident vers d'autres horizons.
+Mais quitter son domaine pour un autre, si différent, est loin d'être évident. Sortir de sa zone de confort remet tout en question. S'ajoute à ça, que ma passion se trouve être mon métier le fait de faire ma passion mon travail est une chance et une réelle motivation. Mais, mon attrait depuis mon enfance pour l'informatique ne fait que grandir et aujourd'hui cet engouement m'a poussé à passer le cap !!!   
  
 ## École de formation MIT, Harvard ?
-
 <p align = "left">
   <i align = left>"non, le CNAM !"</i></br>
   <img align = "center" width = "15%" src = "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/CNAM_Logo.svg/1200px-CNAM_Logo.svg.png">
 </p>  
 
-Il n'était pas envisageable pour moi d'arrêter mon métier. Par conséquent, la seule solution possible était de reprendre mes études en cours du soir.
-J'ai donc cherché des formations hors temps de travail. Et j'ai contacté le CNAM, pour diverses raisons (proximité, réputation, durée de formation...). J'arrive bientôt au terme de cette formation de technicien développeur où j'ai acquis de nombreuses connaissances. Pour cloturer et valider ce parcours, je dois effectuer un stage de 3 mois. J'ai réussi à trouver mon stage, il se déroulera prochainement au sein du ministère des armées. Cette période sera pour moi un moyen de mettre en pratique mes nouveaux acquis et me plongera par la même aux difficultés du métier de développeur.
+Il n'était pas envisageable pour moi d'arrêter mon métier. La seule solution était par conséquent de reprendre mes études en cours du soir.
+J'ai cherché des formations hors temps de travail, j'ai finalement choisi le CNAM pour plusieurs raisons (proximité, réputation, durée de formation...). J'arrive bientôt au terme de cette formation de technicien développeur qui m'a transmis un certain nombreux de connaissances. Pour clôturer et valider ce parcours, j'effectuerai un stage de 3 mois au sein du ministère des armées. Cette expérience sera l'occasion de mettre en pratique mes nouvelles compétences et de me confronter aux réalités du métier de développeur.
 
 ```javascript
 const nicolas = new Object();
@@ -39,7 +38,7 @@ function destinity() {
 }
 ```
 Affichage console :
-  *`Je poursuis mes études vers un  Bac+3/+4 en alternance...`*
+  *`Je poursuis mes études vers un Bac+3/+4 en alternance...`*
 
 **Bon, ok.. d'accord 😕, j'avoue avoir appris énormément de choses par moi-même aussi, et alors ?**
   - [x] Personne ne m'oblige à le faire et pourtant je le fais
@@ -49,19 +48,12 @@ Affichage console :
   - [x] Poursuivre son métier tout en étant étudiant le soir
   - [x] Garder le cap familial quelque soit la difficulté
   - [ ] Dormir en cours car le prof est en pilote automatique *(Critique facile, mais vrai)*
-  
-
-
-&nbsp;
 
 ## Et l'étape d'après c'est quoi ?
-
-
 *Trouver mon alternance et ainsi engrenger de nouvelles expériences et monter en compétences.* <i>**Et pourquoi pas décrocher mon futur emploi...**</i><br/>
 
-Je pense qu'avec tous ces éléments cités ci-dessus mon intérêt pour le monde informatique, **le temps de formation (≈ 3 ans)** et **mes économies** 💳, je peux devenir un très bon développeur pour votre société. Je suis **surmotivé** à l'idée **d'exercer ce metier**.<br/>
-~~Chaque jour~~, je renforce mes connaissances pour toujours aller plus loin et avancer vers mes objectifs.  
-J'espère que je vous ai convaincu et que la balance penchera en ma faveur !!!
+Au vu du <i>**temps de formation (≈ 3 ans)**</i>, <i>**du financement de mes études**</i>💳 et <i>**des différents projets**</i> que vous pourrez parcourir sur mon profil GitHub, mon intérêt pour le monde informatique n'est plus à remettre en question. Il me semble que beaucoup d'éléments sont réunis pour vous convaincre que je vais devenir un très bon développeur pour votre société. Je suis **surmotivé** à l'idée **d'exercer ce metier**. ~~Chaque jour~~, je renforce mes connaissances pour toujours aller plus loin et avancer vers mes objectifs.  
+J'espère que je vous ai convaincu et que la balance :balance_scale: penchera en ma faveur !!!
 
 <p align = "center">
   <img align = "center" width = "30%" src = "https://media.giphy.com/media/xgHaWOkVJAS2s/giphy.gif"/>
