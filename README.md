@@ -9,11 +9,8 @@ Je vis à Lyon
 <p align = "center">
   <img align = "left" width = "20%" src = "https://media.giphy.com/media/sEYI4Z8ag3UE0PXpZ3/giphy.gif"/>
 </p>
-&nbsp;
-et suis actuellement musicien mais en pleine reconversion depuis 2020 pour devenir développeur web.
-
-</br>
-
+</br></br></br></br></br>
+et suis actuellement musicien mais en pleine reconversion depuis 2020 pour devenir développeur web.  
 <p align = "center">
   <img align = "center" width = "20%" src = "https://media.giphy.com/media/26FmRCiQ9lMwuDXVu/giphy.gif"/>
 </p>
@@ -21,25 +18,28 @@ et suis actuellement musicien mais en pleine reconversion depuis 2020 pour deven
 ## Pourquoi développeur web et pas continuer ma vie de clarinettiste ?
 *Désolé pour le gif, je n'ai pas trouvé de clarinettiste !*
 
-J'ai rapidement été attiré par le développement web et j'ai peur du vide donc... 💨 (naturellement) je me suis dirigé vers le web un mélange de programmation et de design deux éléments qui m'intéressent grandement.
-
-</br>
-
+J'ai eu la chance dans ma vie de pouvoir faire de ma passion mon travail. C'est pour moi un réel moyen d'être en permanence motivé.  
+Mais, j'ai également besion d'ouvrir les champs des possibles pour pouvoir m'épanouir, en découvrant de nouveaux horizons comme l'informatique qui.
+ 
 ## École de formation MIT, Havard ?
-*"non, le CNAM !"*
+*"non, le CNAM !"*  
+
+Il n'était pas envisageable pour moi d'arrêter mon métier. Par conséquent, la seule solution possible était de reprendre mes études en cours du soir.
+J'ai donc chercher des formations hors temps de travail. Et j'ai contacté le CNAM, pour diverses raisons (proximité, réputation, durée de formation...)
+
 ```javascript
 const nicolas = new Object();
-function God() {
-  if(nicolas.diplomes > 0){
-    return console.log("I'm you'r graduate men !");
+function destinity() {
+  if(nicolas.diplome == "diplomeValidate"){
+    return console.log("Je poursuis mes études vers un  Bac+3/+4 en alternance...");
   }
- return console.log("Sorry, i can do nothing for you.");
+ return console.log("Je retrousse mes manches pour repasser et valider mes derniers UE et croise les doigts pour être embauché !");
 }
 ```
 
-*Sorry, i can do nothing for you.*
+  *Je poursuis mes études vers un  Bac+3/+4 en alternance...*
 
-**Bon, ok.. d'accord 😕, je l'avoue j'ai appris énormément de chose par moi-même et alors ?**
+**Bon, ok.. d'accord 😕, j'avoue avoir appris énormément de choses par moi-même aussi et alors ?**
   - [x] Personne ne m'oblige à le faire et pourtant je le fais
   - [x] Apprendre chaque jour est devenu une habitude
   - [x] Devoir résoudre seul des problèmes est une obligation
