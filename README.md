@@ -52,7 +52,7 @@ Affichage console :
 ## Et l'étape d'après c'est quoi ?
 *Trouver une alternance, vivre de nouvelles expériences, développer mes compétences.* <i>**Et pourquoi pas décrocher mon futur job...**</i><br/>
 
-Au vu du <i>**temps de formation (≈ 3 ans)**</i>, <i>**du financement de mes études**</i>💳 et <i>**des différents projets**</i> que vous pourrez parcourir sur mon profil GitHub, mon intérêt pour le monde informatique n'est plus à remettre en question. Il me semble que beaucoup d'éléments sont réunis pour vous convaincre que je vais devenir un très bon développeur pour votre société. Je suis **surmotivé** à l'idée **d'exercer ce metier**. ~~Chaque jour~~, je renforce mes connaissances pour toujours aller plus loin et avancer vers mes objectifs.  
+Après <i>**≈ 3 annnées de formation**</i>, <i>**le financement de mes études**</i>💳 et <i>**les projets**</i> que vous pourrez parcourir sur mon profil GitHub, il me semble que mon intérêt pour le monde informatique n'est plus à remettre en question. J'ai réuni beaucoup d'éléments pour vous convaincre que je peux devenir un bon développeur pour votre société. Je suis **surmotivé** à l'idée **d'exercer ce métier**. ~~Chaque jour~~, je renforce mes connaissances pour toujours aller plus loin et avancer vers mes objectifs.  
 J'espère que je vous ai convaincu et que la balance :balance_scale: penchera en ma faveur !!!
 
 <p align = "center">
