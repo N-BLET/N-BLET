@@ -10,7 +10,7 @@ Je vis à Lyon
  <img align="right" width="15%" alt="GIF" src="https://media.giphy.com/media/26FmRCiQ9lMwuDXVu/giphy.gif"></img><p align = "left" style="border: 1px"> et suis actuellement musicien :musical_score: plus précisement clarinettiste au sein du ministère des armées. Cependant, je suis en pleine transition pour changer radicalement de voie. En effet, j'ai entamé ma reconversion depuis 2020 pour devenir développeur web.:computer:</p>
 </p>  
 </br></br></br>
-<p align = "right">*Désolé pour le gif, je n'ai pas trouvé de clarinettiste !*</p>
+<p align = "right"><i>Désolé pour le gif, je n'ai pas trouvé de clarinettiste !</i></p>
 
 
 ## Pourquoi développeur web et plus clarinettiste ?
