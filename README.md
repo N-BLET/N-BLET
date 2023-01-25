@@ -52,8 +52,8 @@ Affichage console :
 ## Et l'étape d'après c'est quoi ?
 *Trouver une alternance, vivre de nouvelles expériences, développer mes compétences.* <i>**Et pourquoi pas décrocher mon futur job...**</i><br/>
 
-Après <i>**≈ 3 annnées de formation**</i>, <i>**le financement de mes études**</i>💳 et <i>**les projets**</i> que vous pourrez parcourir sur mon profil GitHub, il me semble que mon intérêt pour le monde informatique n'est plus à remettre en question. J'ai réuni beaucoup d'éléments pour vous convaincre que je peux devenir un bon développeur pour votre société. Je suis **surmotivé** à l'idée **d'exercer ce métier**. ~~Chaque jour~~, je renforce mes connaissances pour toujours aller plus loin et avancer vers mes objectifs.  
-J'espère que je vous ai convaincu et que la balance :balance_scale: penchera en ma faveur !!!
+Après <i>**≈ 3 annnées de formation**</i>, <i>**le financement de mes études**</i>💳 et <i>**les projets**</i> que vous pourrez parcourir sur mon profil GitHub, il me semble que mon intérêt pour le monde informatique n'est plus à remettre en question. J'ai réuni beaucoup d'éléments pour vous convaincre que je peux devenir un bon développeur pour votre société. Je suis **surmotivé** à l'idée **d'exercer ce métier**. ~~Chaque jour~~, je renforce mes connaissances pour aller toujours plus loin et me rapprocher de mes objectifs.  
+J'espère vous avoir convaincu et avoir fait pencher la balance :balance_scale: en ma faveur !!!
 
 <p align = "center">
   <img align = "center" width = "30%" src = "https://media.giphy.com/media/xgHaWOkVJAS2s/giphy.gif"/>
