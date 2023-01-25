@@ -56,7 +56,7 @@ Après <i>**≈ 3 annnées de formation**</i>, <i>**le financement de mes étude
 J'espère vous avoir convaincu et avoir fait pencher la balance :balance_scale: en ma faveur !!!
 
 <p align = "center">
-  <img align = "center" width = "30%" src = "https://media.giphy.com/media/xgHaWOkVJAS2s/giphy.gif"/>
+  <img align = "center" width = "30%" src = "[https://media.giphy.com/media/xgHaWOkVJAS2s/giphy.gif](https://media.giphy.com/media/UWnKOebQraQhxmZPuC/giphy.gif)"/>
 </p>
 
 <h3 align="left">Me contacter :</h3>
