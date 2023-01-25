@@ -7,13 +7,12 @@ Je vis à Lyon
 
 <p align = "center">
   <img align = "left" width = "20%" src = "https://media.giphy.com/media/sEYI4Z8ag3UE0PXpZ3/giphy.gif"/>
-</p>
-</br></br></br></br></br>
-<img align="right" width="15%" alt="GIF" src="https://media.giphy.com/media/26FmRCiQ9lMwuDXVu/giphy.gif"></img>
-</br><p align="left" width = "10%">et suis actuellement musicien :musical_score: plus précisement clarinettiste au sein du ministère des armées. Cependant, je suis en pleine transition pour changer radicalement de voie. En effet, j'ai entamé ma reconversion depuis 2020 pour devenir développeur web.:computer:</p>
+ <img align="right" width="15%" alt="GIF" src="https://media.giphy.com/media/26FmRCiQ9lMwuDXVu/giphy.gif"></img><p align = "left" style="border: 1px"> et suis actuellement musicien :musical_score: plus précisement clarinettiste au sein du ministère des armées. Cependant, je suis en pleine transition pour changer radicalement de voie. En effet, j'ai entamé ma reconversion depuis 2020 pour devenir développeur web.:computer:</p>
+</p>  
+</br></br></br>
+<p align = "right">*Désolé pour le gif, je n'ai pas trouvé de clarinettiste !*</p>
 
-*Désolé pour le gif, je n'ai pas trouvé de clarinettiste !*
-</br>
+
 ## Pourquoi développeur web et plus clarinettiste ?
 
 Après une dizaine d'années au sein des orchestres militaires :military_helmet:, le besoin de nouveaux objectifs et le désir de développer de nouvelles compétences me guident vers d'autres horizons.
