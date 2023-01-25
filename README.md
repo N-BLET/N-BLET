@@ -50,7 +50,7 @@ Affichage console :
   - [ ] Dormir en cours car le prof est en pilote automatique *(Critique facile, mais vrai)*
 
 ## Et l'étape d'après c'est quoi ?
-*Trouver mon alternance et ainsi engrenger de nouvelles expériences et monter en compétences.* <i>**Et pourquoi pas décrocher mon futur emploi...**</i><br/>
+*Trouver une alternance, vivre de nouvelles expériences, développer mes compétences.* <i>**Et pourquoi pas décrocher mon futur job...**</i><br/>
 
 Au vu du <i>**temps de formation (≈ 3 ans)**</i>, <i>**du financement de mes études**</i>💳 et <i>**des différents projets**</i> que vous pourrez parcourir sur mon profil GitHub, mon intérêt pour le monde informatique n'est plus à remettre en question. Il me semble que beaucoup d'éléments sont réunis pour vous convaincre que je vais devenir un très bon développeur pour votre société. Je suis **surmotivé** à l'idée **d'exercer ce metier**. ~~Chaque jour~~, je renforce mes connaissances pour toujours aller plus loin et avancer vers mes objectifs.  
 J'espère que je vous ai convaincu et que la balance :balance_scale: penchera en ma faveur !!!
