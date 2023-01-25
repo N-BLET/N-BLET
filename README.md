@@ -17,7 +17,7 @@ Je vis à Lyon
 ## Pourquoi développeur web et plus clarinettiste ?
 
 Après une dizaine d'années au sein des orchestres militaires :military_helmet:, le besoin de nouveaux objectifs et le désir de développer de nouvelles compétences me guident vers d'autres horizons.
-Mais quitter son domaine pour un autre, si différent, est loin d'être évident. Sortir de sa zone de confort remet tout en question. S'ajoute à ça, que ma passion se trouve être mon métier le fait de faire ma passion mon travail est une chance et une réelle motivation. Mais, mon attrait depuis mon enfance pour l'informatique ne fait que grandir et aujourd'hui cet engouement m'a poussé à passer le cap !!!   
+Quitter son domaine pour un autre, si différent, est loin d'être évident. Sortir de sa zone de confort remet tout en question. Cependant, depuis l'enfance, mon attrait pour l'informatique va en grandissant, ce qui me pousse aujourd'hui à passer le cap !!!   
  
 ## École de formation MIT, Harvard ?
 <p align = "left">
@@ -26,7 +26,7 @@ Mais quitter son domaine pour un autre, si différent, est loin d'être évident
 </p>  
 
 Il n'était pas envisageable pour moi d'arrêter mon métier. La seule solution était par conséquent de reprendre mes études en cours du soir.
-J'ai cherché des formations hors temps de travail, j'ai finalement choisi le CNAM pour plusieurs raisons (proximité, réputation, durée de formation...). J'arrive bientôt au terme de cette formation de technicien développeur qui m'a transmis un certain nombreux de connaissances. Pour clôturer et valider ce parcours, j'effectuerai un stage de 3 mois au sein du ministère des armées. Cette expérience sera l'occasion de mettre en pratique mes nouvelles compétences et de me confronter aux réalités du métier de développeur.
+J'ai cherché des formations hors temps de travail, j'ai finalement choisi le CNAM pour plusieurs raisons (proximité, réputation, durée de formation...). J'arrive bientôt au terme de cette formation de technicien développeur. Pour clôturer et valider ce parcours, j'effectuerai un stage de 3 mois au sein du ministère des armées. Cette expérience sera l'occasion de mettre en pratique mes nouvelles compétences et de me confronter aux réalités du métier de développeur.
 
 ```javascript
 const nicolas = new Object();
