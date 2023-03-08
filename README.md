@@ -51,7 +51,7 @@ Affichage console :
 ## Et l'étape d'après c'est quoi ?
 *Trouver une alternance, vivre de nouvelles expériences, développer mes compétences.* <i>**Et pourquoi pas décrocher mon futur job...**</i><br/>
 
-Après <i>**≈ 3 annnées de formation**</i>, <i>**le financement de mes études**</i>💳 et <i>**les projets**</i> que vous pourrez parcourir sur mon profil GitHub, il me semble que mon intérêt pour le monde informatique n'est plus à remettre en question. J'ai réuni beaucoup d'éléments pour vous convaincre que je peux devenir un bon développeur pour votre société. De plus, je viens d'intégrer l'EPSI école avec laquelle je vais pouvoir poursuivre mon apprentissage vers le bachelor mais cette fois en alternance. Je suis **surmotivé** à l'idée **d'exercer ce métier**. ~~Chaque jour~~, je renforce mes connaissances pour aller toujours plus loin et me rapprocher de mes objectifs.  
+Après <i>**≈ 3 annnées de formation**</i>, <i>**le financement de mes études**</i>💳 et <i>**les projets**</i> que vous pourrez parcourir sur mon profil GitHub, il me semble que mon intérêt pour le monde informatique n'est plus à remettre en question. J'ai réuni beaucoup d'éléments pour vous convaincre que je peux devenir un bon développeur pour votre société. De plus, je viens d'intégrer l'EPSI, école avec laquelle je vais pouvoir poursuivre mon apprentissage vers le bachelor mais cette fois-ci en alternance. Je suis **surmotivé** à l'idée **d'exercer ce métier**. ~~Chaque jour~~, je renforce mes connaissances pour aller toujours plus loin et me rapprocher de mes objectifs.  
 J'espère vous avoir convaincu et avoir fait pencher la balance :balance_scale: en ma faveur !!!
 
 <p align = "center">
