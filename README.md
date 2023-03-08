@@ -2,7 +2,7 @@
 
 ### je suis Nicolas Blet.
 
-En quelques mot :  
+En quelques mots :  
 Je vis à Lyon
 
 <p align = "center">
