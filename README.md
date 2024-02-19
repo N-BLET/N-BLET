@@ -7,7 +7,7 @@ Je vis à Lyon
 
 <p align = "center">
   <img align = "left" width = "20%" src = "https://media.giphy.com/media/sEYI4Z8ag3UE0PXpZ3/giphy.gif"/>
- <img align="right" width="15%" alt="GIF" src="https://media.giphy.com/media/26FmRCiQ9lMwuDXVu/giphy.gif"></img><p align = "left" style="border: 1px"> et suis actuellement musicien :musical_score: plus précisement clarinettiste au sein du ministère des armées. Cependant, je suis en pleine transition pour changer radicalement de voie. En effet, j'ai entamé ma reconversion depuis 2020 pour devenir développeur web.:computer:</p>
+ <img align="right" width="15%" alt="GIF" src="https://media.giphy.com/media/26FmRCiQ9lMwuDXVu/giphy.gif"></img><p align = "left" style="border: 1px"> et suis actuellement développeur web.:compute en alternance dans le groupe Forterro plus précisement sa filiale Abas-France. Auparavant, Cependant, j'étais musicien :musical_score: plus précisement clarinettiste au sein du ministère des armées.</p>
 </p>  
 </br></br></br>
 <p align = "right"><i>Désolé pour le gif, je n'ai pas trouvé de clarinettiste !</i></p>
@@ -38,6 +38,7 @@ function destinity() {
 ```
 Affichage console :
   *`Je poursuis mes études vers un Bac+3/+4 en alternance...`*
+De plus, j'ai intégré l'EPSI, <img width= "25%" src="https://www.epsi.fr/wp-content/uploads/2021/09/logoEpsiFondBlanc.svg"> école avec laquelle j'effectue actuellement  en alternance la poursuite de mon apprentissage vers le bachelor. 
 
 **Bon, ok.. d'accord 😕, j'avoue avoir appris énormément de choses par moi-même aussi, et alors ?**
   - [x] Personne ne m'oblige à le faire et pourtant je le fais
@@ -49,9 +50,9 @@ Affichage console :
   - [ ] Dormir en cours car le prof est en pilote automatique *(Critique facile, mais vrai)*
 
 ## Et l'étape d'après c'est quoi ?
-*Trouver une alternance, vivre de nouvelles expériences, développer mes compétences.* <i>**Et pourquoi pas décrocher mon futur job...**</i><br/>
+*Poursuivre mon parcours professionnel dans cette nouvelle voix, vivre de nouvelles expériences, développer mes compétences.* <i>**Et pourquoi pas réunir mes 2 passions (la musique et le développment) dans mon futur job...**</i><br/>
 
-Après <i>**≈ 3 annnées de formation**</i>, <i>**le financement de mes études**</i>💳 et <i>**les projets**</i> que vous pourrez parcourir sur mon profil GitHub, il me semble que mon intérêt pour le monde informatique n'est plus à remettre en question. J'ai réuni beaucoup d'éléments pour vous convaincre que je peux devenir un bon développeur pour votre société. De plus, je viens d'intégrer l'EPSI, <img width= "25%" src="https://www.epsi.fr/wp-content/uploads/2021/09/logoEpsiFondBlanc.svg"> école avec laquelle je vais pouvoir poursuivre mon apprentissage vers le bachelor en alternance. Je suis **surmotivé** à l'idée **d'exercer ce métier**. ~~Chaque jour~~, je renforce mes connaissances pour aller toujours plus loin et me rapprocher de mes objectifs.  
+Après <i>**≈ 3 annnées de formation**</i>, <i>**le financement de mes études**</i>💳, <i>**les projets**</i> que vous pourrez parcourir sur mon profil GitHub et <i>**mes différentes expériences**</i>, il me semble que mon intérêt pour le monde informatique n'est plus à remettre en question. J'ai réuni beaucoup d'éléments pour vous convaincre que je peux devenir un bon développeur pour votre société. Je suis **surmotivé** à l'idée **d'exercer ce métier**. ~~Chaque jour~~, je renforce mes connaissances pour aller toujours plus loin et me rapprocher de mes objectifs.  
 J'espère vous avoir convaincu et avoir fait pencher la balance :balance_scale: en ma faveur !!!
 
 <p align = "center">
