@@ -38,7 +38,7 @@ function destinity() {
 ```
 Affichage console :
   *`Je poursuis mes études vers un Bac+3/+4 en alternance...`*
-À la suite de ce parcours, j'ai intégré l'EPSI, <img width= "25%" src="https://www.epsi.fr/wp-content/uploads/2021/09/logoEpsiFondBlanc.svg"> école avec laquelle j'effectue actuellement en alternance la poursuite de mon apprentissage vers le bachelor. 
+<p>À la suite de ce parcours, j'ai intégré l'EPSI, <img width= "25%" src="https://www.epsi.fr/wp-content/uploads/2021/09/logoEpsiFondBlanc.svg"> école avec laquelle j'effectue actuellement en alternance la poursuite de mon apprentissage vers le bachelor.</p>
 
 **Bon, ok.. d'accord 😕, j'avoue avoir appris énormément de choses par moi-même aussi, et alors ?**
   - [x] Personne ne m'oblige à le faire et pourtant je le fais
