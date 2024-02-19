@@ -25,7 +25,7 @@ Quitter son domaine pour un autre, si différent, est loin d'être évident. Sor
 </p>  
 
 Il n'était pas envisageable pour moi d'arrêter mon métier. La seule solution était par conséquent de reprendre mes études en cours du soir.
-J'ai cherché des formations hors temps de travail, j'ai finalement choisi le CNAM pour plusieurs raisons (proximité, réputation, durée de formation...). Pour valider cette formation de technicien développeur, j'ai dû effectuer un stage d'environ 3 mois au sein du ministère des armées. Cette expérience m'a permis de concevoir et réaliser un progiciel de gestion du parc instrumental à l'échelle nationale. Ce projet m'a permis de mettre en pratique mes connaissances, de faire mes première armes de développeur et acquérir de nouvelles à travers l'utilisation du Framework Symfony.
+J'ai cherché des formations hors temps de travail, j'ai finalement choisi le CNAM pour plusieurs raisons (proximité, réputation, durée de formation...). Pour valider cette formation de technicien développeur, j'ai dû effectuer un stage d'environ 3 mois au sein du ministère des armées. Cette expérience m'a permis de concevoir et réaliser un progiciel de gestion du parc instrumental à l'échelle nationale. Ce projet m'a permis de mettre en pratique mes connaissances, de faire mes première armes de développeur et d'acquérir de nouvelles compétences à travers l'utilisation du Framework Symfony.
 
 ```javascript
 const nicolas = new Object();
