@@ -7,7 +7,7 @@ Je vis à Lyon
 
 <p align = "center">
   <img align = "left" width = "20%" src = "https://media.giphy.com/media/sEYI4Z8ag3UE0PXpZ3/giphy.gif"/>
- <img align="right" width="15%" alt="GIF" src="https://media.giphy.com/media/26FmRCiQ9lMwuDXVu/giphy.gif"></img><p align = "left" style="border: 1px"> et suis actuellement développeur web.💻 en alternance dans le groupe Forterro plus précisement sa filiale Abas-France, je contribue à l'intégration de l'ERP du même nom. Auparavant, j'étais musicien :musical_score: plus précisement clarinettiste au sein du ministère des armées durant 17 ans.</p>
+ <img align="right" width="15%" alt="GIF" src="https://media.giphy.com/media/26FmRCiQ9lMwuDXVu/giphy.gif"></img><p align = "left" style="border: 1px"> et suis actuellement développeur web💻 en alternance dans le groupe Forterro plus précisement sa filiale Abas-France, je contribue à l'intégration de l'ERP du même nom. Auparavant, j'étais musicien :musical_score: plus précisement clarinettiste au sein du ministère des armées durant 17 ans.</p>
 </p>  
 </br></br></br>
 <p align = "right"><i>Désolé pour le gif, je n'ai pas trouvé de clarinettiste !</i></p>
@@ -25,7 +25,7 @@ Quitter son domaine pour un autre, si différent, est loin d'être évident. Sor
 </p>  
 
 Il n'était pas envisageable pour moi d'arrêter mon métier. La seule solution était par conséquent de reprendre mes études en cours du soir.
-J'ai cherché des formations hors temps de travail, j'ai finalement choisi le CNAM pour plusieurs raisons (proximité, réputation, durée de formation...). J'arrive bientôt au terme de cette formation de technicien développeur. Pour clôturer et valider ce parcours, j'effectuerai un stage de 3 mois au sein du ministère des armées. Cette expérience sera l'occasion de mettre en pratique mes nouvelles compétences et de me confronter aux réalités du métier de développeur.
+J'ai cherché des formations hors temps de travail, j'ai finalement choisi le CNAM pour plusieurs raisons (proximité, réputation, durée de formation...). Pour valider cette formation de technicien développeur, j'ai dû effectuer un stage d'environ 3 mois au sein du ministère des armées. Cette expérience m'a permis de concevoir et réaliser un progiciel de gestion du parc instrumental à l'échelle nationale. Ce projet m'a permis de mettre en pratique mes connaissances, de faire mes première armes de développeur et acquérir de nouvelles à travers l'utilisation du Framework Symfony.
 
 ```javascript
 const nicolas = new Object();
@@ -38,7 +38,7 @@ function destinity() {
 ```
 Affichage console :
   *`Je poursuis mes études vers un Bac+3/+4 en alternance...`*
-De plus, j'ai intégré l'EPSI, <img width= "25%" src="https://www.epsi.fr/wp-content/uploads/2021/09/logoEpsiFondBlanc.svg"> école avec laquelle j'effectue actuellement  en alternance la poursuite de mon apprentissage vers le bachelor. 
+À la suite de ce parcours, j'ai intégré l'EPSI, <img width= "25%" src="https://www.epsi.fr/wp-content/uploads/2021/09/logoEpsiFondBlanc.svg"> école avec laquelle j'effectue actuellement en alternance la poursuite de mon apprentissage vers le bachelor. 
 
 **Bon, ok.. d'accord 😕, j'avoue avoir appris énormément de choses par moi-même aussi, et alors ?**
   - [x] Personne ne m'oblige à le faire et pourtant je le fais
