@@ -13,7 +13,7 @@ Je vis à Lyon
 <p align = "right"><i>Désolé pour le gif, je n'ai pas trouvé de clarinettiste !</i></p>
 
 
-## Pourquoi développeur web et plus clarinettiste ?
+## Pourquoi développeur web et non plus clarinettiste ?
 
 Après une dizaine d'années au sein des orchestres militaires :military_helmet:, le besoin de nouveaux objectifs et le désir de développer de nouvelles compétences me guident vers d'autres horizons.
 Quitter son domaine pour un autre, si différent, est loin d'être évident. Sortir de sa zone de confort remet tout en question. Cependant, depuis l'enfance, mon attrait pour l'informatique va en grandissant, ce qui me pousse aujourd'hui à passer le cap !!!   
