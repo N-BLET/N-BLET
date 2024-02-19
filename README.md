@@ -7,7 +7,7 @@ Je vis à Lyon
 
 <p align = "center">
   <img align = "left" width = "20%" src = "https://media.giphy.com/media/sEYI4Z8ag3UE0PXpZ3/giphy.gif"/>
- <img align="right" width="15%" alt="GIF" src="https://media.giphy.com/media/26FmRCiQ9lMwuDXVu/giphy.gif"></img><p align = "left" style="border: 1px"> et suis actuellement développeur web.:compute en alternance dans le groupe Forterro plus précisement sa filiale Abas-France. Auparavant, Cependant, j'étais musicien :musical_score: plus précisement clarinettiste au sein du ministère des armées.</p>
+ <img align="right" width="15%" alt="GIF" src="https://media.giphy.com/media/26FmRCiQ9lMwuDXVu/giphy.gif"></img><p align = "left" style="border: 1px"> et suis actuellement développeur web.💻 en alternance dans le groupe Forterro plus précisement sa filiale Abas-France, je contribue à l'intégration de l'ERP du même nom. Auparavant, j'étais musicien :musical_score: plus précisement clarinettiste au sein du ministère des armées durant 17 ans.</p>
 </p>  
 </br></br></br>
 <p align = "right"><i>Désolé pour le gif, je n'ai pas trouvé de clarinettiste !</i></p>
