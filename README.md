@@ -50,7 +50,7 @@ Affichage console :
   - [ ] Dormir en cours car le prof est en pilote automatique *(Critique facile, mais vrai)*
 
 ## Et l'étape d'après c'est quoi ?
-*Poursuivre mon parcours professionnel dans cette nouvelle voix, vivre de nouvelles expériences, développer mes compétences.* <i>**Et pourquoi pas réunir mes 2 passions (la musique et le développment) dans mon futur job...**</i><br/>
+*Poursuivre mon parcours professionnel et développer mes compétences dans cette nouvelle voix.* <i>**Utiliser et mettre en avant toute mon expérience professionnelle (pédagogique, management, gestion de projet...) au profit de mon futur emploi...**</i><br/>
 
 Après <i>**≈ 3 annnées de formation**</i>, <i>**le financement de mes études**</i>💳, <i>**les projets**</i> que vous pourrez parcourir sur mon profil GitHub et <i>**mes différentes expériences**</i>, il me semble que mon intérêt pour le monde informatique n'est plus à remettre en question. J'ai réuni beaucoup d'éléments pour vous convaincre que je peux devenir un bon développeur pour votre société. Je suis **surmotivé** à l'idée **d'exercer ce métier**. ~~Chaque jour~~, je renforce mes connaissances pour aller toujours plus loin et me rapprocher de mes objectifs.  
 J'espère vous avoir convaincu et avoir fait pencher la balance :balance_scale: en ma faveur !!!
