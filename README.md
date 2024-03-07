@@ -20,7 +20,7 @@ Quitter son domaine pour un autre, si différent, est loin d'être évident. Sor
  
 ## École de formation MIT, Harvard ?
 <p align = "left">
-  <i align = left>"non, le CNAM !"</i></br>
+  <i align = left>"non, le CNAM et l'EPSI !"</i></br>
   <img width = "15%" src = "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/CNAM_Logo.svg/1200px-CNAM_Logo.svg.png">
 </p>  
 
