@@ -54,6 +54,8 @@ Affichage console :
 
 Après <i>**≈ 3 annnées de formation**</i>, <i>**le financement de mes études**</i>💳, <i>**les projets**</i> que vous pourrez parcourir sur mon profil GitHub, ou bien sur mon portfolio et <i>**mes différentes expériences**</i>,  il est clair que mon intérêt pour le monde informatique est indéniable. J'ai rassemblé de nombreux éléments pour vous démontrer que je suis capable de devenir un excellent développeur pour votre entreprise. Mon alternance a été une étape cruciale dans mon parcours, confirmant ma décision de devenir développeur. Cette expérience m'a apporté une vision plus précise des attentes et des exigences du poste. Je suis **extrêment motivé** à l'idée **d'exercer ce métier**. 
 
+J'espère vous avoir convaincu et avoir fait pencher la balance ⚖️ en ma faveur !!!
+
 <p align = "center">
   <img align = "center" width = "15%" src = "https://media.giphy.com/media/UWnKOebQraQhxmZPuC/giphy.gif"/>
 </p>
