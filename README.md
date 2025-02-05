@@ -1,58 +1,69 @@
 # Bienvenue,
 
-### je suis Nicolas Blet.
+### moi c’est Nicolas Blet
 
 En quelques mots :  
 Je vis à Lyon
 
 <p align = "center">
   <img align = "left" width = "20%" src = "https://media.giphy.com/media/sEYI4Z8ag3UE0PXpZ3/giphy.gif"/>
- <img align="right" width="15%" alt="GIF" src="https://media.giphy.com/media/26FmRCiQ9lMwuDXVu/giphy.gif"></img><p align = "left" style="border: 1px"> et suis actuellement développeur web💻 en alternance dans la filiale Abas-France du groupe Forterro, je contribue à l'intégration de l'ERP du même nom. Auparavant, j'étais musicien :musical_score: plus précisement clarinettiste au sein du ministère des armées durant 17 ans.</p>
+ <img align="right" width="15%" alt="GIF" src="https://media.giphy.com/media/26FmRCiQ9lMwuDXVu/giphy.gif"></img><p align = "left" style="border: 1px"> et suis actuellement **développeur** chez Active Développement. 🎵 Avant ça, j'ai passé **17 ans en tant que clarinettiste** au sein du ministère des Armées. </p>
 </p>  
 </br></br></br>
 <p align = "right"><i>Désolé pour le gif, je n'ai pas trouvé de clarinettiste !</i></p>
 
 
-## Pourquoi développeur web et non plus clarinettiste ?
+## 🎷 De musicien militaire à 👨‍💻 développeur  
 
-Après une dizaine d'années au sein des orchestres militaires :military_helmet:, le besoin de nouveaux objectifs et le désir de développer de nouvelles compétences me guident vers d'autres horizons.
-Quitter son domaine pour un autre, si différent, est loin d'être évident. Sortir de sa zone de confort remet tout en question. Cependant, depuis l'enfance, mon attrait pour l'informatique va en grandissant, ce qui me pousse aujourd'hui à passer le cap !!!   
- 
-## École de formation MIT, Harvard ?
-<p align = "left">
-  <i align = left>"non, le CNAM et l'EPSI !"</i></br>
-  <img width = "15%" src = "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/CNAM_Logo.svg/1200px-CNAM_Logo.svg.png">
-</p>  
+Après plus d'une décennie dans les orchestres militaires 🪖, l'envie de nouveaux défis m’a poussé à changer de cap. Sortir de sa zone de confort ? **Challenge accepté !**  
+Passionné depuis toujours par l’informatique 💻, j’ai décidé de franchir le pas.  
 
-Il n'était pas envisageable pour moi d'arrêter mon métier. La seule solution était par conséquent de reprendre mes études en cours du soir.
-J'ai cherché des formations hors temps de travail, j'ai finalement choisi le CNAM pour plusieurs raisons (proximité, réputation, durée de formation...). Pour valider cette formation de technicien développeur, j'ai dû effectuer un stage d'environ 3 mois au sein du ministère des armées. Cette expérience m'a permis de concevoir et réaliser un progiciel de gestion du parc instrumental à l'échelle nationale. Ce projet m'a permis de mettre en pratique mes connaissances, de faire mes première armes de développeur et d'acquérir de nouvelles compétences à travers l'utilisation du Framework Symfony.
+## 📚 Formation : MIT ? Harvard ? Non, <img width="15%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/CNAM_Logo.svg/1200px-CNAM_Logo.svg.png" alt="CNAM"> et <img width="80" height="80" src="https://github.com/user-attachments/assets/c2808b48-24aa-46fa-9112-63e56cf230dd" alt="EPSI" style="vertical-align: middle; margin-left: 10px;"> !
+
+
+Il n’était pas question d’abandonner mon métier du jour au lendemain. J’ai donc repris mes études en **cours du soir** au CNAM. Après un **stage de 3 mois au ministère des Armées**, j’ai conçu un progiciel de gestion du parc instrumental 🎻🎺 (mon premier projet concret !).  
+
+J’ai poursuivi avec un **bachelor en alternance** à l’EPSI, où j’ai perfectionné mes compétences en développement. Aujourd’hui, je continue de monter en puissance en développant des solutions métier sur **FileMaker**, tout en explorant d’autres technologies et méthodologies.
+
+&nbsp; 
+
+## 💡 Pourquoi moi ?  
+
+Parce que :  
+ - [x] **J’apprends en continu** (et personne ne m’y oblige !)  
+ - [x] **Trouver des solutions seul ? Un réflexe**  
+ - [x] **La gestion de projet, le management et la pédagogie**, ça me connaît  
+ - [x] **Mon parcours atypique** me donne un regard unique sur le développement  
+ - [x] **Je suis ultra-motivé** et prêt à faire décoller mes compétences  
+
+&nbsp; 
+
+## <img src="https://github.com/user-attachments/assets/d4ecf17e-054a-4c14-b665-fcd87a810238" width="30" height="30"> Un peu de code ?  
 
 ```javascript
-const nicolas = new Object();
-function destinity() {
-  if(nicolas.stage && nicolas.dernièresUE == "diplomeValidate"){
-    return console.log("Je poursuis mes études vers un  Bac+3/+4 en alternance...");
-  }
- return console.log("Je retrousse mes manches pour repasser et valider mes derniers UE et croise les doigts pour être embauché !");
+const nicolas = {
+  parcours: ["musicien", "développeur"],
+  compétences: ["FileMaker", "Vue.js", "Symfony", "gestion de projet"],
+  objectif: "Toujours monter en compétences et affiner mes méthodes",
+  motivation: Infinity
+};
+
+function nextStep() {
+  return nicolas.compétences.includes("expertise ultime")
+    ? console.log("Mission accomplie ! 🎯")
+    : console.log("Encore du chemin à parcourir... et c’est ça qui est excitant ! 🚀");
 }
+
+nextStep();
+
 ```
-Affichage console :
-  *`Je poursuis mes études vers un Bac+3/+4 en alternance...`*
-<p>À la suite de ce parcours, j'ai intégré l'EPSI, <img width= "25%" src="https://www.epsi.fr/wp-content/uploads/2021/09/logoEpsiFondBlanc.svg"> école avec laquelle j'effectue actuellement en alternance la poursuite de mon apprentissage vers le bachelor.</p>
 
-**Bon, ok.. d'accord 😕, j'avoue avoir appris énormément de choses par moi-même aussi, et alors ?**
-  - [x] Personne ne m'oblige à le faire et pourtant je le fais
-  - [x] Apprendre chaque jour est devenu une habitude
-  - [x] Devoir résoudre seul des problèmes est une obligation
-  - [x] Savoir effectuer des recherches
-  - [x] Poursuivre son métier tout en étant étudiant le soir
-  - [x] Garder le cap familial quelque soit la difficulté
-  - [ ] Dormir en cours car le prof est en pilote automatique *(Critique facile, mais vrai)*
+&nbsp; 
 
-## Et l'étape d'après c'est quoi ?
-*Poursuivre mon parcours professionnel et développer mes compétences dans cette nouvelle voix.* <i>**Utiliser et mettre en avant toute mon expérience professionnelle (pédagogique, management, gestion de projet...) au profit de mon futur emploi...**</i><br/>
+## 🕒 Et maintenant ?  
 
-Après <i>**≈ 3 annnées de formation**</i>, <i>**le financement de mes études**</i>💳, <i>**les projets**</i> que vous pourrez parcourir sur mon profil GitHub, ou bien sur mon portfolio et <i>**mes différentes expériences**</i>,  il est clair que mon intérêt pour le monde informatique est indéniable. J'ai rassemblé de nombreux éléments pour vous démontrer que je suis capable de devenir un excellent développeur pour votre entreprise. Mon alternance a été une étape cruciale dans mon parcours, confirmant ma décision de devenir développeur. Cette expérience m'a apporté une vision plus précise des attentes et des exigences du poste. Je suis **extrêment motivé** à l'idée **d'exercer ce métier**. 
+Mon objectif ? **Continuer à monter en compétence**, découvrir de nouvelles technos et affiner mes méthodes en gestion de projet.  
+Après plusieurs années d’apprentissage, de formation, de pratique et une transition réussie vers l’informatique, **une chose est sûre** : je suis à ma place et prêt à relever de nouveaux défis ! 🚀  
 
 J'espère vous avoir convaincu et avoir fait pencher la balance ⚖️ en ma faveur !!!
 
@@ -63,6 +74,10 @@ J'espère vous avoir convaincu et avoir fait pencher la balance ⚖️ en ma fav
 <h3 align="left">Me contacter :</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nicolas-blet-5720b859" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/nicolas-blet-5720b859" height="30" width="40" /></a>
+<a href="https://nicolasblet.fr" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=117011&format=png&color=000000)" alt="Portfolio"  height="50" width="50" /></a>
+
+
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
