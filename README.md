@@ -7,7 +7,7 @@ Je vis à Lyon
 
 <p align = "center">
   <img align = "left" width = "20%" src = "https://media.giphy.com/media/sEYI4Z8ag3UE0PXpZ3/giphy.gif"/>
- <img align="right" width="15%" alt="GIF" src="https://media.giphy.com/media/26FmRCiQ9lMwuDXVu/giphy.gif"></img><p align = "left" style="border: 1px"> et suis actuellement **développeur** chez Active Développement. 🎵 Avant ça, j'ai passé **17 ans en tant que clarinettiste** au sein du ministère des Armées. </p>
+ <img align="right" width="15%" alt="GIF" src="https://media.giphy.com/media/26FmRCiQ9lMwuDXVu/giphy.gif"></img><p align = "left" style="border: 1px"> et suis actuellement <strong>developpeur</strong> chez Active Développement. 🎵 Avant ça, j'ai passé <strong>17 ans en tant que clarinettiste</strong> au sein du ministère des Armées.</p>
 </p>  
 </br></br></br>
 <p align = "right"><i>Désolé pour le gif, je n'ai pas trouvé de clarinettiste !</i></p>
@@ -23,7 +23,8 @@ Passionné depuis toujours par l’informatique 💻, j’ai décidé de franchi
 
 Il n’était pas question d’abandonner mon métier du jour au lendemain. J’ai donc repris mes études en **cours du soir** au CNAM. Après un **stage de 3 mois au ministère des Armées**, j’ai conçu un progiciel de gestion du parc instrumental 🎻🎺 (mon premier projet concret !).  
 
-J’ai poursuivi avec un **bachelor en alternance** à l’EPSI, où j’ai perfectionné mes compétences en développement. Aujourd’hui, je continue de monter en puissance en développant des solutions métier sur **FileMaker**, tout en explorant d’autres technologies et méthodologies.
+J’ai poursuivi avec un **bachelor en alternance** à l’EPSI, où j’ai perfectionné mes compétences en développement. Mon alternance chez **Abas Forterro** m’a permis de contribuer à l’intégration d’un **ERP spécialisé pour l’industrie métallurgique**, me donnant une première expérience concrète dans le développement d’outils métier.
+Aujourd’hui, je continue de monter en puissance en développant des solutions métier sur **FileMaker**, tout en **explorant d’autres technologies et méthodologies** pour enrichir ma boîte à outils de développeur
 
 &nbsp; 
 
